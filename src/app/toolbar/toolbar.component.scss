@@ -1,0 +1,38 @@
+
+
+.flexSpaceBetween {
+  justify-content: space-evenly;
+}
+
+.tabs {
+  display: flex;
+  justify-content: flex-end;
+  flex: 1;
+  margin: 0;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+p {
+  margin: 0;
+  font-size: medium;
+  margin: 5px;
+}
+
+span{
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
